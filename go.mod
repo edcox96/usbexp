@@ -2,8 +2,6 @@ module usbexp
 
 go 1.22.2
 
-replace example.com/usbexp => /Users/edcox/projects/golang/usbexp
-
 require (
 	github.com/google/gousb v1.1.3
 	github.com/spf13/cobra v1.8.1
